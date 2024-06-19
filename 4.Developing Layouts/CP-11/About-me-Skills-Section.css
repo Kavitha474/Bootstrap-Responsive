@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.about-me-skills-section-bg-container {
+    background-color: #323f4b;
+}
+
+.about-me-sub-heading {
+    color: #cced00;
+    font-size: 20px;
+    font-family: "Roboto";
+}
+
+.about-me-heading {
+    color: white;
+    font-size: 35px;
+    font-family: "Roboto";
+    font-weight: 700;
+}
+
+.person-image {
+    width: 100%;
+}
+
+.person-description {
+    color: #9aa5b1;
+    font-size: 17px;
+    font-family: "Roboto";
+    padding: 1px;
+}
+
+.skills-section-bg-container {
+    background-color: #1f2933;
+}
+
+.skills-section-sub-heading {
+    color: #cced00;
+    font-size: 20px;
+    font-family: "Roboto";
+}
+
+.skills-card-container {
+    background-color: #323f4b;
+    height: 150px;
+    width: 160px;
+    border-radius: 8px;
+}
+
+.skill-card-image {
+    height: 70px;
+    width: 60px;
+    margin-top: 10px;
+}
+
+.skill-card-title {
+    color: white;
+    font-size: 20px;
+    padding-top: 10px;
+}
